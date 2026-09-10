@@ -14,3 +14,11 @@ Everybody loves **Misaka Mikoto, Uchiha Itachi, Kikyo, and Sesshoumaru**! ⚡️
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xuanyuan14&theme=transparent" alt="Jia Chen's GitHub statistics" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xuanyuan14&theme=transparent" alt="Jia Chen's repositories by language" />
 </div>
+
+## Featured Project
+
+### [RED-Search/Qilin](https://github.com/RED-Search/Qilin)
+
+A project I initiated and led.
+
+[![GitHub Stars](https://img.shields.io/github/stars/RED-Search/Qilin?style=flat-square&logo=github&label=Stars)](https://github.com/RED-Search/Qilin/stargazers)
