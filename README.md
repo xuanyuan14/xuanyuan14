@@ -1,7 +1,10 @@
 <!-- <a href="https://xuanyuan14.github.io/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=xuanyuan14&count_private=true&show_icons=true" />
 </a>  -->
-[![Xuanyuan14's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuanyuan14&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+I am currently leading the search algorithm team at Meituan Keeta. Before that, I worked as the POC of CTR Prediction team at Xiaohongshu Search Division. Earlier, I received my Ph.D. degree from THUIR, Department of Computer Science and Technology in Tsinghua University. My major research interests are about interactive search, pre-trained language models, and etc. I have also served as a PC member for top-tier IR/NLP conferences/journals such as SIGIR/SIGIR-AP, WSDM, ACL, AAAI, TOIS, EMNLP, COLING and so on.
+
+My hobbies mainly focus on popular music, comic and animation (e.g., Naruto, Inuyasha, Saint Seiya, A Certain Scientific Railgun, Demon Slayer, Detective Conan, Howl’s Moving Castle, Digimon Adventure, Pokemon, etc). Everybody loves Misaka Mikoto, Uchiha Itachi, Kikyo and Sesshoumaru! ⚡️
 
 <!--
 **xuanyuan14/xuanyuan14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
