@@ -11,6 +11,6 @@ Everybody loves **Misaka Mikoto, Uchiha Itachi, Kikyo, and Sesshoumaru**! ⚡️
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xuanyuan14&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="Jia Chen's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuanyuan14&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Jia Chen's most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xuanyuan14&theme=transparent" alt="Jia Chen's GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xuanyuan14&theme=transparent" alt="Jia Chen's repositories by language" />
 </div>
