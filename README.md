@@ -7,9 +7,3 @@ My major research interests include **interactive search** and **pre-trained lan
 My hobbies mainly focus on popular music, comics, and animation, including *Naruto*, *Inuyasha*, *Saint Seiya*, *A Certain Scientific Railgun*, *Demon Slayer*, *Detective Conan*, *Howl’s Moving Castle*, *Digimon Adventure*, and *Pokémon*.
 
 Everybody loves **Misaka Mikoto, Uchiha Itachi, Kikyo, and Sesshoumaru**! ⚡️
-
-## GitHub
-
-| Combined Stars | Coverage |
-| :---: | :--- |
-| ⭐ **<!-- COMBINED_STARS:START --> 184 <!-- COMBINED_STARS:END -->** | [`xuanyuan14/*`](https://github.com/xuanyuan14?tab=repositories) + [`RED-Search/Qilin`](https://github.com/RED-Search/Qilin) |
