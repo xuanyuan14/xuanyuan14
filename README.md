@@ -1,8 +1,6 @@
 <!-- Animated header -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7B2FFF,100:FF4ECD&height=220&section=header&text=Hi%20there!%20I'm%20Jia%20Chen&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Search%20%7C%20Recommender%20Systems%20%7C%20NLP&descAlignY=56&animation=fadeIn)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7B2FFF&center=true&vCenter=true&random=false&width=720&lines=Leading+Search+Algorithms+%40+Meituan+Keeta;Exploring+Interactive+Search+%26+Language+Models;Turning+Research+Ideas+into+Real-world+Impact)](https://git.io/typing-svg)
 
 <p>
